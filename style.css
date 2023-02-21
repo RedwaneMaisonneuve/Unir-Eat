@@ -1,0 +1,16 @@
+@import url(‘https://fonts.googleapis.com/css2?family=Poppins&display=swap’);
+
+body{
+    font-family: poppins ;
+    background-image: url(./img/Restaurant.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.h1{
+    font-size: 22px;
+    font-family: Neue Montreal;
+    font-weight: bold;
+
+}
